@@ -106,5 +106,5 @@ The project uses the [Book-Crossing Dataset](https://www.kaggle.com/datasets/som
 
 ## Contact
 
-For questions or suggestions, contact Aatif Ahmad at <b22ai002@iitj.ac.in>.
+For questions or suggestions, contact Akshay Aloriya at <b22bb05@iitj.ac.in>.
 
